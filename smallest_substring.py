@@ -31,7 +31,7 @@ def smallestSubstring(S):
 		return -1
 	return res + 1
 
-S = "01111"
+S = "01211"
 
 print(smallestSubstring(S))
 
